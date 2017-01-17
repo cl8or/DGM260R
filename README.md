@@ -1,2 +1,0 @@
-# DGM260R
-Revisions
